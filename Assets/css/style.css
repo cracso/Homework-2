@@ -1,6 +1,20 @@
+.row.row2 {
+  padding: 30px;
+
+}
+
+
 .card-title{
 background-color: indigo;
+position: absolute;
+z-index: 999;
+margin: 0 auto;
+left: 0;
+right: 0;
+top: 50%;
+
 }
+
 
 footer {
     position: fixed;
