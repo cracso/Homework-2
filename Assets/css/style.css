@@ -3,7 +3,7 @@
 
 }
 
-
+/* 
 .card-title{
 background-color: indigo;
 position: absolute;
@@ -11,10 +11,45 @@ z-index: 999;
 margin: 0 auto;
 left: 0;
 right: 0;
-top: 50%;
+top: 80%;
+margin: 6px;
 
+} */
+#about-me{
+  font-size: 20px;
 }
 
+#about-me h2{
+  font-weight: bolder;
+  color: rgb(52, 58, 64);
+}
+
+#project1{
+  background-color: rgb(52, 58, 64);
+}
+
+#project2{
+  background-color: rgb(52, 58, 64);
+}
+
+#project3{
+  background-color: rgb(52, 58, 64);
+}
+
+#project4
+{
+  background-color: rgb(52, 58, 64);
+}
+
+a{
+  color: white;
+  font: 18px;
+}
+
+a:hover{
+ color: plum;
+ font-size: 23px;
+}
 
 footer {
     position: fixed;
